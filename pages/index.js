@@ -3,7 +3,7 @@ import Head from 'next/head'
 const Home = () => (
   <div className="container">
     <Head>
-      <title>Create Next App</title>
+      <title>Next.js Demo for React Penang Online Meetup #3</title>
       <link rel="icon" href="/favicon.ico" />
     </Head>
 
